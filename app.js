@@ -1,5 +1,5 @@
 var counter = document.querySelector('.counter');
-let count =0;
+let count =7;
 function changeCounter(button){
     if(button== plus){
         if(count < 50){
